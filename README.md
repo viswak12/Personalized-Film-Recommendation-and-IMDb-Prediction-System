@@ -1,11 +1,13 @@
 # Personalized-Film-Recommendation-and-IMDb-Prediction-System
 Overview  This project aims to enhance the digital entertainment experience by building a machine learning-based system that recommends films based on user preferences and predicts IMDb ratings for movies. 
+
 📌 Objectives
 
 Predict IMDb ratings using regression models
 Recommend similar movies based on user viewing history
 Analyze audience patterns through movie metadata (age rating, genre, etc.)
 Visualize data insights to understand viewing trends and behaviors
+
 📁 Dataset
 
 We used two primary datasets:
@@ -51,12 +53,14 @@ Random Forest Classifier	65% accuracy
 KNN Classifier	54% accuracy
 Linear Regression	Best performance in regression tests
 Random Forest Regression	Moderate performance
+
 📊 Visualizations
 
 Age Rating Distribution (Bar Graph)
 Genre Distribution (Pie Chart & 3D Bar)
 Scatter plots for runtime vs country vs ratings
 Spending score analysis by profession and family size
+
 📚 Technologies Used
 
 Languages: Python
@@ -66,12 +70,14 @@ NLP: TF-IDF Vectorization
 Visualization: Power BI, Plotly, Tableau
 Clustering: K-Means, Cosine Similarity
 Evaluation: MAE, MSE, RMSE
+
 💡 Future Work
 
 Incorporate real-time user feedback for dynamic recommendations
 Expand datasets to include streaming data and recent reviews
 Integrate more advanced NLP models like BERT for deeper sentiment analysis
 Improve model accuracy through hyperparameter tuning and ensemble methods
+
 📚 References
 
 Augustine, A., & Pathak, M. (2008). User rating prediction for movies. University of Texas at Austin.
